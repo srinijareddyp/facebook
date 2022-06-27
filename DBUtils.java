@@ -1,3 +1,4 @@
 heloo guys 
-this is the java related file which contains the db connection
+this is the java related file which contains the db 
+db logic addded
 
